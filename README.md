@@ -1,29 +1,5 @@
 # my-small-project
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### 学了Vue几天，做了一点小例子，样式用的是bootstap的框架，直接拿bootstap的组件
+#### 用node.js配置服务器， 读取json文件，里面我只给了一个用户名和密码，所以简单些。
+#### 当登录时，请求node，获取用户名和密码。例子相对简单。
